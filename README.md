@@ -4,4 +4,5 @@ Repositório contendo script Python para ler arquivo CSV e gerar relatório com 
 ## Descrição: 
 
 * O programa foi desenvolvido utilizando a linguagem de programação Python;
-* Os arquivos utilizados estão dispostas em pastas diferentes no repositório, os quais contém um arquivo .py com o código-fonte da questão ou .csv com os dados.
+* Os arquivos utilizados estão dispostas em pastas diferentes no repositório, os quais contém um arquivo .py com o código-fonte da questão ou .csv com os dados;
+* O Dataframe simula uma lista com os 20 filmes mais vistos no ano de 2022, bem como suas respectivas quantidade de visualizações e Streaming ao qual fora transmitido.
