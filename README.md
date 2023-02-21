@@ -16,3 +16,6 @@ Repositório contendo script Python para ler arquivo CSV e gerar relatório com 
 
 ### Imagem do relatório final gerado no Power BI:
 ![print3](https://user-images.githubusercontent.com/109001008/220213809-2412d1fe-e808-423d-8dd5-0bdd3d7d042d.png)
+
+### Imagem do Dashboard produzido no Power BI:
+![print_dashboard](https://user-images.githubusercontent.com/109001008/220381118-d2cd705e-a44b-4210-b05f-4a1e80e96573.png)
